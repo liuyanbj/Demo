@@ -1,4 +1,4 @@
-﻿IBM Db2 V11.5
+IBM Db2 V11.5
 
 *Performance Tuning*
 
